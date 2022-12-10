@@ -1,0 +1,1 @@
+export const stringToCharSet = str => new Set(str.split(''));
